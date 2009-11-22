@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 #
+# Copyright 2009 Bryan Landers
+#
 # Licensed under the Apache License, Version 2.0 (the "License"); you may
 # not use this file except in compliance with the License. You may obtain
 # a copy of the License at
@@ -12,7 +14,7 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-"""A Python wrapper forthe BackType API v1
+"""A Python wrapper for the BackType API v1
 
 API documentation is available at http://www.backtype.com/developers.
 
